@@ -2,7 +2,7 @@
 
 * Timothy Jones Ong
 
-This project is using Python, Django, and MySql
+This project is using Python and Django
 * Authentication
 * Communication between users
 * Dashboard for your items
